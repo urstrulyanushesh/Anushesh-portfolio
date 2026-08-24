@@ -1,0 +1,51 @@
+.contacts-section { background: transparent; }
+.contacts-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: start;
+}
+.contacts-text {
+  font-size: 1rem;
+  color: var(--text-dim);
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+.contacts-dots {
+  width: 80px; height: 80px;
+  background-image: radial-gradient(circle, var(--text-dim) 1px, transparent 1px);
+  background-size: 8px 8px;
+  opacity: 0.35;
+}
+.message-box {
+  border: 3px solid var(--text);
+  border-radius: var(--glass-radius);
+  padding: 24px;
+  background: var(--neon-pink);
+  box-shadow: var(--neon-shadow);
+  box-shadow: var(--neon-shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.message-label {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text);
+  transition: color 0.2s, background 0.2s;
+  padding: 4px 6px;
+}
+.contact-item:hover { color: var(--text); background: var(--neon-cyan); }
+.contact-icon { font-size: 0.9rem; }
+@media (max-width: 768px) {
+  .contacts-inner { grid-template-columns: 1fr; }
+}

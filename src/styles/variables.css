@@ -1,0 +1,19 @@
+:root {
+  --bg: #f4f0e8;
+  --bg-secondary: #e7e1d5;
+  --text: #111111;
+  --text-dim: #3d3a35;
+  --accent: #ff5c35;
+  --accent2: #f3d34a;
+  --neon-cyan: #20c4c7;
+  --neon-pink: #f06aa8;
+  --glass: #ffffff;
+  --glass-strong: #f3d34a;
+  --glass-border: #111111;
+  --neon-shadow: 8px 8px 0 #111111;
+  --border: #111111;
+  --glass-radius: 0px;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+  --font-sans: 'IBM Plex Sans', sans-serif;
+  --nav-h: 60px;
+}
