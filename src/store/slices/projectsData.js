@@ -1,5 +1,14 @@
 export const projects = [
   {
+    id: 0,
+    title: 'Anushesh Portfolio',
+    desc: 'A responsive developer portfolio showcasing projects, skills, and contact information.',
+    tags: ['React', 'JavaScript', 'CSS', 'Responsive Design'],
+    links: { code: 'https://github.com/urstrulyanushesh/Anushesh-portfolio' },
+    color: '#f3d34a',
+    image: 'https://opengraph.githubassets.com/1/urstrulyanushesh/Anushesh-portfolio',
+  },
+  {
     id: 1,
     title: 'Real-Time Chat Application',
     desc: 'Full-stack messaging with live presence, typing indicators, and group conversations.',
