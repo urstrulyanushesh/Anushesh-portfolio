@@ -6,7 +6,7 @@ const About = () => (
     <div className="container about-inner">
       <div className="about-text">
         <div className="section-tag">#about-me</div>
-        <p className="about-p">Hello, I'm Anushesh K K Tharu!</p>
+        <p className="about-p">Hello, I'm Anushesh Kariya Kangrahuwa Tharu!</p>
         <p className="about-p">
           I'm a Bachelor in Information Technology student based in Kathmandu, Nepal, with hands-on full-stack MERN internship experience.
         </p>
