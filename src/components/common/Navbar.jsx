@@ -14,7 +14,7 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-inner">
         <a href="#home" className="navbar-logo">
-          <span className="logo-icon">◆</span> urstrulyanushesh
+          <span className="logo-icon">◆</span> @urstrulyanushesh
         </a>
         <div className="navbar-links">
           {['home', 'works', 'about-me', 'contacts'].map(link => (
