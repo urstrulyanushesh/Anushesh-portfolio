@@ -16,9 +16,9 @@ const Contacts = () => (
       <div className="contacts-right">
         <div className="message-box">
           <span className="message-label">Message me here</span>
-          <a href="mailto:anusheshtharu@gmail.com" className="contact-item">
+          <a href="mailto:anusheshkktharu@gmail.com" className="contact-item">
             <span className="contact-icon">✉</span>
-            <span>anusheshtharu@gmail.com</span>
+            <span>anusheshkktharu@gmail.com</span>
           </a>
           <a href="tel:+9779860769015" className="contact-item">
             <span className="contact-icon">☎</span>
