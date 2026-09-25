@@ -22,7 +22,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="container">
-      <div className="footer-copy">© Copyright 2026. Made by Anushesh K K Tharu</div>
+      <div className="footer-copy">© Copyright 2026. Made by Anushesh Kariya Kangrahuwa Tharu</div>
     </div>
   </footer>
 );
