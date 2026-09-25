@@ -25,8 +25,7 @@ const Hero = () => {
             Anushesh, 
             <span className="accent-text">full-stack    <br /> developer</span>
          
-            //building{' '}
-            <span & BIT Student</span>
+          <span>&amp; BIT Student</span>
           </h2>
           <p className="hero-sub">
             BIT student and MERN stack developer focused on<br />scalable applications, APIs, and thoughtful UX
