@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="container hero-inner">
         <div className="hero-content">
           <h2 className="hero-title">
-             <h6 > <strong> Hello, world. I am — </strong></h6> <br />
+            <strong> Hello, world. I am — </strong> <br />
             Anushesh, 
             <span style={{ textDecoration: 'none' }} className="accent-text">Full-stack <br /> developer </span>
          
