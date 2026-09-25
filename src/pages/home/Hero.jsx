@@ -19,13 +19,14 @@ const Hero = () => {
       <div ref={cursorRef} className="custom-cursor" />
       <div className="container hero-inner">
         <div className="hero-content">
-          <p className="hero-sub">Hello, world. I am —
-          </p>
           <h2 className="hero-title">
+             <p className="hero-sub">Hello, world. I am —
+          </p>
+            <br />
             Anushesh, 
             <span className="accent-text">full-stack    <br /> developer</span>
          
-          <span> className="accent-text"> <br /> &amp;  BIT Student</span>
+          <span><br /> &amp;  BIT Student</span>
           </h2>
           <p className="hero-sub">
             BIT student and MERN stack developer focused on<br />scalable applications, APIs, and thoughtful UX
