@@ -22,7 +22,7 @@ const Hero = () => {
           <h2 className="hero-title">
              <h6 > <strong> Hello, world. I am — </strong></h6> <br />
             Anushesh, 
-            <span style={{ textDecoration: 'none' }} className="accent-text"> Full-stack <br /> developer </span>
+            <span style={{ textDecoration: 'none' }} className="accent-text">Full-stack <br /> developer </span>
          
           <span><br /> &amp;  BIT Student</span>
           </h2>
