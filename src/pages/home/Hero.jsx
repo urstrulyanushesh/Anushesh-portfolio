@@ -20,9 +20,9 @@ const Hero = () => {
       <div className="container hero-inner">
         <div className="hero-content">
           <h2 className="hero-title">
-             <p className="hero-sub">Hello, world. I am — </p>
+             <p >Hello, world. I am — </p>
             Anushesh, 
-            <span className="accent-text">full-stack    <br /> developer</span>
+            <span style={{ text-decoration: 'none' }} className="accent-text">full-stack    <br /> developer</span>
          
           <span><br /> &amp;  BIT Student</span>
           </h2>
@@ -33,7 +33,7 @@ const Hero = () => {
         </div>
         <div className="hero-art">
           <div className="bracket-frame">
-            <div className="hero-dots hero-dots-top" />
+           /* <div className="hero-dots hero-dots-top" /> */
             <img className="hero-photo" src="/assets/anushesh-hero.jpg" alt="Anushesh in a suit" />
             <div className="hero-dots hero-dots-bottom" />
           </div>
