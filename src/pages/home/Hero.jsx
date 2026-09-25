@@ -20,9 +20,7 @@ const Hero = () => {
       <div className="container hero-inner">
         <div className="hero-content">
           <h2 className="hero-title">
-             <p className="hero-sub">Hello, world. I am —
-          </p>
-            <br />
+             <p className="hero-sub">Hello, world. I am — </p>
             Anushesh, 
             <span className="accent-text">full-stack    <br /> developer</span>
          
