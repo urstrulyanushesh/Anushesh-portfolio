@@ -22,11 +22,11 @@ const Hero = () => {
           <p className="hero-sub">Hello, world. I am —
           </p>
           <h2 className="hero-title">
-            Anushesh is a{' '}
-            <span className="accent-text">full-stack developer</span>
-            <br />
-            building{' '}
-            <span className="accent-text">useful web solutions</span>
+            Anushesh, 
+            <span className="accent-text">full-stack    <br /> developer</span>
+         
+            //building{' '}
+            <span & BIT Student</span>
           </h2>
           <p className="hero-sub">
             BIT student and MERN stack developer focused on<br />scalable applications, APIs, and thoughtful UX
