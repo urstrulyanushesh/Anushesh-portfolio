@@ -6,7 +6,7 @@ const Footer = () => (
     <div className="container footer-inner">
       <div className="footer-left">
         <div className="footer-logo">◆ @urstrulyanushesh</div>
-        <div className="footer-email">anusheshtharu@gmail.com</div>
+        <div className="footer-email">anusheshkktharu@gmail.com</div>
         <div className="footer-role">Full-stack developer and BIT student</div>
       </div>
       <div className="footer-right">
@@ -21,7 +21,7 @@ const Footer = () => (
           <a href="https://www.linkedin.com/in/anusheshtharu/" target="_blank" rel="noreferrer" className="sidebar-icon" title="LinkedIn">
             <svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M20.45 20.45h-3.56v-5.58c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.68H9.34V8.99h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.29zM5.32 7.43a2.07 2.07 0 110-4.14 2.07 2.07 0 010 4.14zM3.54 20.45H7.1V8.99H3.54v11.46zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg>
           </a>
-          <a href="https://discord.com/" target="_blank" rel="noreferrer" className="footer-social">
+          <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer" className="footer-social">
             <svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M20.317 4.37a19.791 19.791 0 00-4.885-1.515.074.074 0 00-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 00-5.487 0 12.64 12.64 0 00-.617-1.25.077.077 0 00-.079-.037A19.736 19.736 0 003.677 4.37a.07.07 0 00-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 00.031.057 19.9 19.9 0 005.993 3.03.078.078 0 00.084-.028 14.09 14.09 0 001.226-1.994.076.076 0 00-.041-.106 13.107 13.107 0 01-1.872-.892.077.077 0 01-.008-.128 10.2 10.2 0 00.372-.292.074.074 0 01.077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 01.078.01c.12.098.246.198.373.292a.077.077 0 01-.006.127 12.299 12.299 0 01-1.873.892.077.077 0 00-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 00.084.028 19.839 19.839 0 006.002-3.03.077.077 0 00.032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 00-.031-.03z"/></svg>
           </a>
         </div>
