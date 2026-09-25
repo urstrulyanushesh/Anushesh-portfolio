@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="container hero-inner">
         <div className="hero-content">
           <h2 className="hero-title">
-             <p >Hello, world. I am — </p>
+             <h6 > <strong> Hello, world. I am — </strong></h6> <br />
             Anushesh, 
             <span style={{ textDecoration: 'none' }} className="accent-text"> Full-stack <br /> developer </span>
          
@@ -33,7 +33,7 @@ const Hero = () => {
         </div>
         <div className="hero-art">
           <div className="bracket-frame">
-           /* <div className="hero-dots hero-dots-top" /> */
+            <div className="hero-dots hero-dots-top" /> 
             <img className="hero-photo" src="/assets/anushesh-hero.jpg" alt="Anushesh in a suit" />
             <div className="hero-dots hero-dots-bottom" />
           </div>
